@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="catalog.service/catalog.service.csproj" />
+  <Project Path="ecom.AppHost/ecom.AppHost.csproj" />
+  <Project Path="ecom.ServiceDefaults/ecom.ServiceDefaults.csproj" />
+  <Project Path="Gateway.API/Gateway.API.csproj" />
+  <Project Path="Ordering.Service/Ordering.Service.csproj" />
+</Solution>
